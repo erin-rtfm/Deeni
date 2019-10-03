@@ -19,6 +19,7 @@ Almost all Deeni verbs are split verbs. With split verbs, conjugation is done in
 _‘Vm-n[]-shi’_ is the stem verb meaning _called_ or _named_. To conjugate it, add the conjugation sounds between the brackets:
 
 | Stem Verb | Conjugation Sound | Conjugated Verb | Meaning |
+|---|---|---|---|
 | ‘vm-n[]-shi’ | vsh | ‘vm-nvsh-shi’ | I am named |
 | ‘vm-n[]-shi’ | ii~ | ‘vm-nii~-shi’ | You are named |
 
