@@ -1,4 +1,5 @@
-# Lesson 1
+# Lesson 1: Greetings
+
 ## Conversation
 |    | Deeni | English |
 |---|---|---|
