@@ -2,6 +2,7 @@
 
 ## Conversation
 | | Deeni | English |
+|---|---|---|
 | Erin | Cheela! | Hello! |
 | | Truuleene waa ‘vm-nii~-shi’? | Are you Truuleene? |
 | Judy | Duu. | No. |
@@ -9,6 +10,7 @@
 
 ## Grammar Notes
 In Deeni, we indicate who is doing an action by conjugating. When you conjugate a verb, you change the stem form to include new sounds. The new sounds tell you who does the action. 
+
 Almost all Deeni verbs are split verbs. With split verbs, conjugation is done in the middle of the word. If that split is on the second syllable, it’s a 2-split verb.
 
 - _I_ or _me_ is almost always indicated with a sh sound: _vhs_, _shi_, or _sh._
@@ -22,4 +24,4 @@ _‘Vm-n[]-shi’_ is the stem verb meaning _called_ or _named_. To conjugate it
 
 > FUN FACT: Because the person doing the action is specified in the verb, there's no need to say _I_ or _you_ separately.
 
-Duu means no.
+_Duu_ means _no._
