@@ -21,6 +21,14 @@ You don't need permission to clone the Deeni Project repo. Pull it down, make im
 
 If you want to contribute, create or update the necessary files and submit a [pull request](#pullrequests). You also don't need permission to submit a pull request.
 
+## Specific Needed Updates
+There are a few things that need doing, in addition to the creation of additional chapters and lessons.
+
+- Develop list of acceptable word endings
+- Develop list of acceptable sound combinations
+
+If you want to start on either project, feel free to create the necessary files.
+
 ## Location and Format
 [Add](https://help.github.com/articles/creating-new-files/) files to the Cirriculum folder. (If you prefer, you can [add files using the command line](https://help.github.com/articles/adding-a-file-to-a-repository-using-the-command-line/). You can also [edit](https://help.github.com/articles/editing-files-in-another-user-s-repository/) files already in the folder.
 
