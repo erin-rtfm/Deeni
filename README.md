@@ -1,6 +1,8 @@
 # About the Deeni Project
 The Deeni Project is a collection of resources for adult learners of the Deeni language, spoken by the ancestors and living members of the Confederated Tribes of Siletz and the Tolowa Rancheria.
 
+**All files in this repo are under the [CC BY-NC-SA 3.0 license](https://creativecommons.org/licenses/by-nc-sa/3.0/us/).**
+
 # Useful Links
 - [Siletz Tribal Language Project](http://siletzlanguage.org/)
 - [Siletz Talking Dictionary](http://siletz.swarthmore.edu)
@@ -59,6 +61,3 @@ During a review, Erin looks at your changes and confirms they are appropriate fo
 
 # Submit Issues
 If you find an issue with the files that you can't or don't want to address yourself, [submit an issue](https://help.github.com/articles/creating-an-issue/). You can also submit an issue to make an enhancement request.
-
-# Readme License
-This Readme was created with the Documentation Readme template by [Erin Grace](https://readthefriendlymanual.com/). CC BY-SA 4.0
