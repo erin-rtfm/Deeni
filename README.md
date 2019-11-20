@@ -27,27 +27,27 @@ If you want to contribute, create or update the necessary files and submit a [pu
 If you'd like to contribute, there are several options available.
 
 ### [Sounds and Spelling](https://github.com/erin-rtfm/Deeni/blob/master/Cirriculum/Chapter%200:%20Introduction%20and%20Basics/Sounds%20and%20Spelling.md) topic
-- Nazalization: 
--- Write a preliminary explanation of nazalation.
--- Provide voice samples.
-- Glottal stops: 
--- Write a prelimiary explanation of glottal stops.
--- Provide voice samples.
-- Constants: 
--- Collect the list of consonants from the [Siletz Langauge](http://www.siletzlanguage.org/additional-materials.php?category=18) website.
--- Provide examples of the sounds as they are used in English (where possible).
--- Collect and link sound files for each consanant from Wikipedia.
--- Provide examples of Deeni words that begin with each constnant.
-- Ejectives:
--- Wrote a prelimiary explanatin of ejectives.
--- Provide voice samples.
-- Record and upload voice samples for all words listed in the topic.
+* Nazalization: 
+  * Write a preliminary explanation of nazalation.
+  * Provide voice samples.
+* Glottal stops: 
+  * Write a prelimiary explanation of glottal stops.
+  * Provide voice samples.
+* Constants: 
+  * Collect the list of consonants from the [Siletz Langauge](http://www.siletzlanguage.org/additional-materials.php?category=18) website.
+  * Provide examples of the sounds as they are used in English (where possible).
+  * Collect and link sound files for each consanant from Wikipedia.
+  * Provide examples of Deeni words that begin with each constnant.
+* Ejectives:
+  * Wrote a prelimiary explanatin of ejectives.
+  * Provide voice samples.
+* Record and upload voice samples for all words listed in the topic.
 
 ### General Updates
-- Develop practice exercies based on the content of each chapter, including some overlap content with earlier chapters.
+* Develop practice exercies based on the content of each chapter, including some overlap content with earlier chapters.
 
 ### Big Projects I'd Like Advice On
-- Develop machine learning algorithm to capture the rules of Deeni phonology. This will help us create new words that "sound right" for both concepts that have been lost as well as for concepts created after cultural genocide.
+* Develop machine learning algorithm to capture the rules of Deeni phonology. This will help us create new words that "sound right" for both concepts that have been lost as well as for concepts created after cultural genocide.
 
 If you want to start on any of these projects, feel free to edit or create the necessary files, or [email me](mailto:thedeeniproject@gmail.com) with questions.
 
