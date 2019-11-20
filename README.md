@@ -23,13 +23,33 @@ You don't need permission to clone the Deeni Project repo. Pull it down, make im
 
 If you want to contribute, create or update the necessary files and submit a [pull request](#pullrequests). You also don't need permission to submit a pull request.
 
-## Specific Needed Updates
-There are a few things that need doing, in addition to the creation of additional chapters and lessons.
+## Needed Updates
+If you'd like to contribute, there are several options available.
 
-- Develop list of acceptable word endings
-- Develop list of acceptable sound combinations
+### [Sounds and Spelling](https://github.com/erin-rtfm/Deeni/blob/master/Cirriculum/Chapter%200:%20Introduction%20and%20Basics/Sounds%20and%20Spelling.md) topic
+- Nazalization: 
+-- Write a preliminary explanation of nazalation.
+-- Provide voice samples.
+- Glottal stops: 
+-- Write a prelimiary explanation of glottal stops.
+-- Provide voice samples.
+- Constants: 
+-- Collect the list of consonants from the [Siletz Langauge](http://www.siletzlanguage.org/additional-materials.php?category=18) website.
+-- Provide examples of the sounds as they are used in English (where possible).
+-- Collect and link sound files for each consanant from Wikipedia.
+-- Provide examples of Deeni words that begin with each constnant.
+- Ejectives:
+-- Wrote a prelimiary explanatin of ejectives.
+-- Provide voice samples.
+- Record and upload voice samples for all words listed in the topic.
 
-If you want to start on either project, feel free to create the necessary files.
+### General Updates
+- Develop practice exercies based on the content of each chapter, including some overlap content with earlier chapters.
+
+### Big Projects I'd Like Advice On
+- Develop machine learning algorithm to capture the rules of Deeni phonology. This will help us create new words that "sound right" for both concepts that have been lost as well as for concepts created after cultural genocide.
+
+If you want to start on any of these projects, feel free to edit or create the necessary files, or [email me](mailto:thedeeniproject@gmail.com) with questions.
 
 ## Location and Format
 [Add](https://help.github.com/articles/creating-new-files/) files to the Cirriculum folder. (If you prefer, you can [add files using the command line](https://help.github.com/articles/adding-a-file-to-a-repository-using-the-command-line/). You can also [edit](https://help.github.com/articles/editing-files-in-another-user-s-repository/) files already in the folder.
@@ -37,9 +57,14 @@ If you want to start on either project, feel free to create the necessary files.
 Submit files in Markdown or CSV, as appropriate. To create a Markdown file, save a text file with the .md extension. Use [Git's cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to learn more about Markdown formatting. To test-drive your syntax, use the [Dillinger editor](https://dillinger.io/).
 
 ## Style Guide
-The Deeni project uses [AP style](https://apstylebook.com/), but with the inclusion of serial commas.
+In regards to English, the Deeni project uses [AP style](https://apstylebook.com/), but with the inclusion of serial commas.
 
-If you have questions, concerns, or suggestions regarding the style, contact [Erin Grace](mailto:erin.rtfm@gmail.com), the Project Maintainer.
+For Deeni words: 
+- Use hyphens only to separate suffixes and prefixes from their parent words. For example, _hii-buusri_ or _'ee-k'wee nalhda_.
+- Use apostrophes to indicate glottal stops. For example, _'aame_ or _mvn'_.
+- Use exclamation points to indicate ejectives. For example, _ch!eela_ or _kw!aaga_.
+
+If you have questions, concerns, or suggestions regarding the style, contact [Erin Grace](mailto:thedeeniproject@gmail.com), the Project Maintainer.
 
 ## Commit Messages
 When you [commit](https://git-scm.com/book/en/v1/Git-Basics-Recording-Changes-to-the-Repository#Committing-Your-Changes) changes, Git asks for a commit message. The commit message lets other conributors and Future You quickly get a sense of what changes you added to the project in that commit.
