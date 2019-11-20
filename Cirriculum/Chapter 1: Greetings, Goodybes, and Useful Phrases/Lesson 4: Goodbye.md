@@ -5,7 +5,7 @@
 |---|---|---|
 | Erin | Hvmchi! | Goodbye! |
 | Judy | Alhdu! | Later! |
-| | Shu'-'aa-xu tii-yvsh! | Take care! |
+| | Shu' 'aaxu tiiyvsh! | Take care! |
 
 ## Grammar Notes
 _Shu'-'aa-xu tii-yvsh_ means _Go smoothly._
