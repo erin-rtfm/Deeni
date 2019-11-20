@@ -1,4 +1,4 @@
-# Introduction
+# Sounds and Spelling: Introduction
 Traditionally, Deeni did not have a written component, so there is no traditional writing style. Instead, several people worked to develop a writing system in the 1970s and '80s. The most current draft of that system is call the "Practical Alphabet," which is designed to capture Deeni phonetics in a way that can be typed on a standard English keyboard. 
 
 I break from the Practical Alphabet in a few small ways:
@@ -38,3 +38,18 @@ Words can have a mix of long and short vowels. When this happens, the long vowel
 - deesre (_sister_)
 - buusri (_cat_)
 - deedvn (_when_)
+
+### Nazalation
+
+### Glottal Stops
+
+## Constants
+| Deeni letter | Sound | Example | Sound Clip |
+| --- | --- | --- | --- |
+| --- | --- | --- | --- |
+| --- | --- | --- | --- |
+| --- | --- | --- | --- |
+| --- | --- | --- | --- |
+| --- | --- | --- | --- |
+
+### Ejectives
