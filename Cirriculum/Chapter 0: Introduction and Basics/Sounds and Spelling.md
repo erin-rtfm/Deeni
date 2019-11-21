@@ -24,12 +24,17 @@ I break from the Practical Alphabet in a few small ways:
 ### Extensions
 Deeni distinguishes between "long" and "short" vowels. You can think of short vowels as taking "beat" in the word, while a long vowel takes two "beats." We don't have a similar concept in formal English, but you can think of it as the difference between "Wow!" and "Woooow!" The second is held for a little longer - in English for emphasis, in Deeni for meaning.
 
-Short vowel examples:
+Short vowels are represented by one letter. The only exception are the diphthongs (au, ay, and oy), which always have two letter. For example:
 - ta' (_father_)
-- disne (_man_)
+- gau (_swan_)
+- day (_what_)
 - telh (_flat, broad_)
+- mish (_nose_)
+- moyn (_edge_)
+- sru' (_grandmother_)
+- dvt (_where_)
 
-Long vowel examples:
+Long vowels are represented by two of the same letter. The two letters together (for example, "ee") mean that you hold out the sound for twice as long. For example:
 - n'ee (_land_)
 - lhchaa~ (_rain_)
 - k"wee (_over_)
