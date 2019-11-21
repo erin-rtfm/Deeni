@@ -44,7 +44,7 @@ Words can have a mix of long and short vowels. When this happens, the long vowel
 - buusri (_cat_)
 - deedvn (_when_)
 
-### Nazalation
+### Nazalization
 
 ### Glottal Stops
 
