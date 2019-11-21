@@ -3,10 +3,10 @@
 ## Conversation
 |    | Deeni | English |
 |---|---|---|
-| Erin  | Cheela!  | Hello!   |
+| Erin  | Ch"eela!  | Hello!   |
 |   | Eelen waa ‘vm-nvsh-shi. | My name is Erin.   |
-| Judy  | Cheela!  |  Hello! |
-|   | Ch’uudi waa ‘vm-nvsh-shi.  |  My name is Judy. |
+| Judy  | Ch"eela!  |  Hello! |
+|   | Ch"uudi waa ‘vm-nvsh-shi.  |  My name is Judy. |
 
 ## Grammar Notes
 - _Waa_ means _in that way. _
@@ -41,7 +41,7 @@ Here are some examples of how to change a name to fit with Deeni sounds.
 | Abe | Ayb |
 | Francesca | Baa-lan-ches-ka |
 | Richard | Lii-chaad |
-| Jennifer | Ch’ee-nee-baa |
+| Jennifer | Ch"ee-nee-baa |
 | Omar | Aa-maa |
 | Quincy | Kwiin-sii |
 | Randy | Laan-dii |
@@ -55,15 +55,15 @@ Here are some examples from my family:
 | Original | Deeni version |
 |---|---|
 | David | Dee-wed |
-| Judy | Ch’uu-di |
+| Judy | Ch"uu-di |
 | Erin | Eelen |
 | Shannon | Shaa-nvn |
 | Killian | Kii-lii-vn |
 | Crystal | Kriis-tal |
-| Joel | Ch’aa-el |
-| Jeremy | Ch’ee-lee-mi |
+| Joel | Ch"aa-el |
+| Jeremy | Ch"ee-lee-mi |
 | Nikki |  Ni’-kii |
-| Jason | Ch’ee-svn |
+| Jason | Ch"ee-svn |
 | Carmen | Kaal-men |
 | Loren | Lvl-en |
 | Mindy | Miin-di |
@@ -73,4 +73,4 @@ Here are some examples from my family:
 | Josh | Ch’ash |
 | Aria | Aa-lii-a |
 | Oliver | Aa-lii-ba |
-| Jordan | Ch’vl-den |
+| Jordan | Ch"vl-den |
