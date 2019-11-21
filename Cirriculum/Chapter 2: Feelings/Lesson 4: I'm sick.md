@@ -3,8 +3,8 @@
 ## Conversation
 | | Deeni | English |
 |---|---|---|
-| Erin | Cheela, Ch’uudi! Daa’eela dee-dint-nish? | Hello, Judy! How are you? |
-| Judy | Duu-wa. | Bad. |
+| Erin | Ch!eela, Ch!uudi! Daa’eela dee-dint-nish? | Hello, Judy! How are you? |
+| Judy | Duuwa. | Bad. |
 | | Dii-nvsht-tr’at. | I’m sick. |
 
 ## Grammar Notes
@@ -22,11 +22,11 @@ Let’s talk about all the ways we’re feeling!
 | Meaning | Stem | Conjugation |
 |---|---|---|
 | I’m happy  | []-sri’-lhxvn-[] | sri’-lhxvn-nush-li~ |
-| I’m sad | []-sri’-tr’aa-ma | sh-sri’-tr’aa-ma |
+| I’m sad | []-sri’-tr!aa-ma | sh-sri’-tr!aa-ma |
 | I’m angry | day-[]e-svlh | day-see-svlh |
 | I’m tired | [lh]tin’-numlh-ya | shtin’-numlh-ya |
-| I’m scared | ne[]lh-ch’vt | neshtlh-ch’vt |
+| I’m scared | ne[]lh-ch!vt | neshtlh-ch!vt |
 | I’m hot | svlh | svlh |
-| I’m cold | s[]-t’ee-li | svs-t’ee-li |
+| I’m cold | s[]-t!ee-li | svs-t!ee-li |
 | I’m hungry | tes[]-ghvs | tee-sii-ghvs |
-| I’m thirsty | sat-naa-ghv[]t-lhts’a | sat-naa-ghvst-lhts’a |
+| I’m thirsty | sat-naa-ghv[]t-lhts!a | sat-naa-ghvst-lhts!a |
