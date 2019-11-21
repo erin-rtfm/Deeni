@@ -3,10 +3,10 @@
 ## Conversation
 | | Deeni | English |
 |---|---|---|
-| Erin | Cheela! | Hello! |
-| | Truuleene waa ‘vm-nii~-shi’? | Are you Truuleene? |
+| Erin | Ch"eela! | Hello! |
+| | Tr"uuleene waa ‘vm-nii~-shi’? | Are you Tr"uuleene? |
 | Judy | Duu. | No. |
-| | Ch’uudi waa ‘vm-nvsh-shi’. | My name is Judy. |
+| | Ch"uudi waa ‘vm-nvsh-shi’. | My name is Judy. |
 
 ## Grammar Notes
 In Deeni, we indicate who is doing an action by conjugating. When you conjugate a verb, you change the stem form to include new sounds. The new sounds tell you who does the action. 
