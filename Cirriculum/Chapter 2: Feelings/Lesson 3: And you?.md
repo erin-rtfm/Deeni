@@ -3,7 +3,7 @@
 ## Conversation
 | | Deeni | English |
 |---|---|---|
-| Erin | Cheela, Ch’uudi! Daa’eela dee-dint-nish? | Hello, Judy! How are you? |
+| Erin | Ch"eela, Ch"uudi! Daa’eela dee-dint-nish? | Hello, Judy! How are you? |
 | Judy | Shu’! | Well! |
 | | Nvnchu? | And you? |
 | Erin | Shiichu shvm. | I’m good, too. |
