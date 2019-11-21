@@ -3,7 +3,7 @@
 ## Conversation
 | | Deeni | English |
 |---|---|---|
-| Erin | Cheela, Ch’uudi! | Hello, Judy! |
+| Erin | Ch"eela, Ch"uudi! | Hello, Judy! |
 | | Daa’eela dee-dint-nish? | How are you? |
 | Judy | Shu’ dee-dvsht-nish. | I’m feeling well. |
 
