@@ -3,10 +3,10 @@
 ## Conversation
 | | Deeni | English |
 |---|---|---|
-| Erin | Cheela, Ch’uudi! | Hello, Judy! |
-| | Shu’ haa nii~li~’? | Are you well? |
+| Erin | Ch"eela, Ch"uudi! | Hello, Judy! |
+| | Shu’ haa nii~-li~’? | Are you well? |
 | Judy | Nvsh-shvm. | I’m good. |
-| | Shu’ haa nii~-li~? | Are you well? |
+| | Shu’ haa nii~-li~'? | Are you well? |
 | Erin | Shu’ nvs-li. | I’m well. |
 
 ## Grammar Notes
@@ -15,7 +15,7 @@
 _Shvm_ means _good_. It is an adjective. This means it describes a noun (person, place, thing, or idea). It always comes after the thing it talks about.
 
 - Xvsh shvm: Good person
-- Mvn-taa-dvn shvm: Good city
+- Mvntaadvn shvm: Good city
 - Srtaa~ shvm: Good food
 
 ### Haa!
@@ -34,9 +34,9 @@ Therefore, _Shu’ haa nii~-li_ literally means _Well that-way are you?_
 #### We have new verbs!
 | Meaning | Conjugation Sound | Example | Example Meaning |
 |---|---|---|---|
-| I [do an action] | vsh, vs  | ‘vm-nvsh-shi’ | I am named |
+| I [do an action] | vsh, vs  | 'vm-nvsh-shi' | I am named |
 | | | dee-dvsht-nish | I feel |
 | | | nvs-li | I am |
-| You [do an action] | in, i~, ii~ | ‘vm-nii~-shi’ | You are named |
+| You [do an action] | in, i~, ii~ | 'vm-nii~-shi' | You are named |
 | | | dee-dint-nish | You feel |
 | | | nii~-li	| You are |
