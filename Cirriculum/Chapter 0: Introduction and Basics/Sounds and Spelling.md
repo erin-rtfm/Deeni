@@ -22,7 +22,7 @@ I break from the Practical Alphabet in a few small ways:
 | v | "u" as in _gut_  | [>>](https://upload.wikimedia.org/wikipedia/commons/8/80/PR-open-mid_back_unrounded_vowel2.ogg) | mvn (_house_)
 
 ### Extensions
-Deeni distinguishes between "long" and "short" vowels. You can think of short vowels as taking "beat" in the word, while a long vowel takes two "beats." We don't have a similar concept in formal English, but you can think of it as the difference between "Wow!" and "Woooow!" The second is held for a little longer - in English for emphasis, in Deeni for meaning.
+Deeni distinguishes between "long" and "short" vowels. You can think of short vowels as taking one "beat" in the word, while a long vowel takes two "beats." We don't have a similar concept in formal English, but you can think of it as the difference between "Wow!" and "Woooow!" The second is held for a little longer - in English for emphasis, in Deeni for meaning.
 
 Short vowels are represented by one letter. The only exception are the diphthongs (au, ay, and oy), which always have two letter. For example:
 - ta' (_father_)
