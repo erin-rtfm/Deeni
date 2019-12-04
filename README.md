@@ -4,8 +4,11 @@ The Deeni Project is a collection of resources for adult learners of the Deeni l
 **All files in this repo are under the [CC BY-NC-SA 3.0 license](https://creativecommons.org/licenses/by-nc-sa/3.0/us/).**
 
 # Useful Links
-- [Siletz Tribal Language Project](http://siletzlanguage.org/)
-- [Siletz Talking Dictionary](http://siletz.swarthmore.edu)
+- Other Deeni languages resources
+  - [Siletz Tribal Language Project homepage](http://siletzlanguage.org/)
+  - [Siletz Tribal Language Project YouTube channel](https://www.youtube.com/channel/UCqItaFC4sUC_8fELAa5D9-w)
+  - [Siletz Talking Dictionary](http://siletz.swarthmore.edu)
+  - [Deeni Dvn YouTube channel](https://www.youtube.com/channel/UCZATl-BMCvJq5Dj0xGmzezA)
 - Git
   - [Getting Started](https://git-scm.com/book/en/v1/Getting-Started)
   - [Git Basics](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
