@@ -42,12 +42,16 @@ If you'd like to contribute, there are several options available.
   * Collect and link sound files for each consanant from Wikipedia.
   * Provide examples of Deeni words that begin with each constnant.
 * Ejectives:
-  * Wrote a prelimiary explanatin of ejectives.
+  * Wrote a prelimiary explanation of ejectives.
   * Provide voice samples.
 * Record and upload voice samples for all words listed in the topic.
 
 ### General Updates
-* Develop practice exercies based on the content of each chapter, including some overlap content with earlier chapters.
+* Write practice exercies based on the content of each chapter, including some overlap content with earlier chapters.
+* Provide voice samples of conversations in each less.
+  * Record voice samples.
+  * Publish samples to chapter folder.
+  * Link to correct sample for each lesson.
 
 ### Big Projects I'd Like Advice On
 * Develop machine learning algorithm to capture the rules of Deeni phonology. This will help us create new words that "sound right" for both concepts that have been lost as well as for concepts created after cultural genocide.
