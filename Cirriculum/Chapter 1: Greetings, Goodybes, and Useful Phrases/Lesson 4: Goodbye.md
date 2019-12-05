@@ -8,7 +8,7 @@
 | | Shu' 'aaxu tiiyvsh! | Take care! |
 
 ## Grammar Notes
-_Shu' aa-xu tiiyvsh_ means _Go smoothly._
+_Shu' 'aaxu tiiyvsh_ means _Go smoothly._
 
 ### Well, well, well
 _Shu'_ means _well._ It is an adverb. This means it talks about an adjective, verb, or another adverb. It always comes before the thing it talks about.
