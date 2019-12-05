@@ -48,7 +48,7 @@ Words can have a mix of long and short vowels. When this happens, the long vowel
 
 ### Glottal Stops
 
-## Constants
+## Consonants
 | Deeni letter | Sound | Example | Sound Clip |
 | --- | --- | --- | --- |
 | --- | --- | --- | --- |
