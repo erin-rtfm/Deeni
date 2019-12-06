@@ -45,6 +45,18 @@ Words can have a mix of long and short vowels. When this happens, the long vowel
 - deedvn (_when_)
 
 ### Nazalization
+A "nasal" sound is when you make noise by passing air through your nose rather than through your mouth. For example, when you hum, no air comes out of your mouth - instead, you make a noise in your throat and all the air comes out of your nose. (Put your hand under your nostrils and hum a little of your favorite tune to see what I mean.)
+
+In Deeni, the vowels _a_ and _i_ can be nasalized for meaning. We write that with a tilde (~) symbol. For example:
+- xuucha~ (_blessed_)
+- si~sxa (_sea_)
+
+In addition to the short nasal vowels above, you can also have long nasal vowels:
+- haa~chu (_goose_)
+- nii~dash (_you dance_)
+
+You can also have more than one nasal vowel in a single word:
+- nii~li~' (_rapids_)
 
 ### Glottal Stops
 
