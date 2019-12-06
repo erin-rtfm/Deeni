@@ -56,7 +56,7 @@ In addition to the short nasal vowels above, you can also have long nasal vowels
 - nii~dash (_you dance_)
 
 You can also have more than one nasal vowel in a single word:
-- nii~li~' (_rapids_)
+- nii~li ~' (_rapids_)
 
 ### Glottal Stops
 
