@@ -10,8 +10,7 @@ I break from the Practical Alphabet in a few small ways:
 # The Practical Alphabet
 ## Vowels
 
-###Basic Vowels
-
+### Basic Vowels
 | Deeni letter | Sound | Sound clip | Example |
 | --- | --- | --- | --- |
 | a | "a" as in _father_ | [>>](https://upload.wikimedia.org/wikipedia/commons/5/50/Open_central_unrounded_vowel.ogg) | ta'  (_father_)|
