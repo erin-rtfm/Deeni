@@ -46,11 +46,30 @@ If you'd like to contribute, there are several options available.
   * Provide voice samples.
 * Record and upload voice samples for all words listed in the topic.
 
+### General Updates
+* Write practice exercises based on the content of each chapter, including some overlap content with earlier chapters.
+* Provide voice samples of conversations in each less.
+  * Record voice samples.
+  * Publish samples to chapter folder.
+  * Link to correct sample for each lesson.
+* Work on lessons not yet associated with a chapter.
+  * Create lesson for alienable possession.
+  * Create lesson for inalienable possession.
+  * Create lessons for talking about the future.
+  * Create lessons for talking about the past.
+  * Create lesson about senses.
+
+### Big Projects I'd Like Advice On
+* Develop machine learning algorithm to capture the rules of Deeni phonology. This will help us create new words that "sound right" for both concepts that have been lost as well as for concepts created after cultural genocide.
+
+If you want to start on any of these projects, feel free to edit or create the necessary files, or [email me](mailto:thedeeniproject@gmail.com) with questions.
+
 ### Planned Chapters
 This is the list of chapters I've come up with so far, as well as some basics about what will be in each chapter. This list is very much not complete - there's a lot more to cover!
 
 <details>
   <summary>Click to see the full list</summary>
+  
 * Write Chapter 3: Introductions
   * Write Lesson 1: My family
   * Write Lesson 2: My tribe
@@ -146,10 +165,8 @@ This is the list of chapters I've come up with so far, as well as some basics ab
   * Create lesson about the things you did in the past.
   * Create lesson about the things someone else did in the past.
 * Write Chapter 19: If/Then, Cause/Effect
-  * Create lesson about what you or others will do if a condition is met.
-    * For example: _If it rains, then I/you/we two/we all/he/they two/they all will splash in puddles._
-  * Create lesson about cause and effect.
-    * For example: _When it rains, the ground gets wet._
+  * Create lesson about what you or others will do if a condition is met (e.g., _If it rains, then I/you/we two/we all/he/they two/they all will splash in puddles_).
+  * Create lesson about cause and effect (e.g., _When it rains, the ground gets wet_).
 * Write Chapter 20: Doing Things in Order
   * Create lesson about ordinals.
   * Create lesson about then, before, after
@@ -161,24 +178,6 @@ This is the list of chapters I've come up with so far, as well as some basics ab
 * Write Bonus Chapter 2: Jokes
 * Write Bonus Chapter 3: Onomatopoeia
 </details>
-
-### General Updates
-* Write practice exercises based on the content of each chapter, including some overlap content with earlier chapters.
-* Provide voice samples of conversations in each less.
-  * Record voice samples.
-  * Publish samples to chapter folder.
-  * Link to correct sample for each lesson.
-* Work on lessons not yet associated with a chapter.
-  * Create lesson for alienable possession.
-  * Create lesson for inalienable possession.
-  * Create lessons for talking about the future.
-  * Create lessons for talking about the past.
-  * Create lesson about senses.
-
-### Big Projects I'd Like Advice On
-* Develop machine learning algorithm to capture the rules of Deeni phonology. This will help us create new words that "sound right" for both concepts that have been lost as well as for concepts created after cultural genocide.
-
-If you want to start on any of these projects, feel free to edit or create the necessary files, or [email me](mailto:thedeeniproject@gmail.com) with questions.
 
 ## Location and Format
 [Add](https://help.github.com/articles/creating-new-files/) files to the Curriculum folder. (If you prefer, you can [add files using the command line](https://help.github.com/articles/adding-a-file-to-a-repository-using-the-command-line/). You can also [edit](https://help.github.com/articles/editing-files-in-another-user-s-repository/) files already in the folder.
