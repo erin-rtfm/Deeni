@@ -31,10 +31,9 @@ If you'd like to contribute, there are several options available.
 
 ### [Sounds and Spelling](https://github.com/erin-rtfm/Deeni/blob/master/Cirriculum/Chapter%200:%20Introduction%20and%20Basics/Sounds%20and%20Spelling.md) topic
 * Nasalization: 
-  * Write a preliminary explanation of nasalization.
   * Provide voice samples.
 * Glottal stops: 
-  * Write a preliminary explanation of glottal stops.
+  * Write a preliminary explanation of glottal stops. (Feel free to research on, but not copy, Wikipedia.)
   * Provide voice samples.
 * Constants: 
   * Collect the list of consonants from the [Siletz Langauge](http://www.siletzlanguage.org/additional-materials.php?category=18) website.
@@ -42,7 +41,7 @@ If you'd like to contribute, there are several options available.
   * Collect and link sound files for each consonant from Wikipedia.
   * Provide examples of Deeni words that begin with each constant.
 * Ejectives:
-  * Wrote a preliminary explanation of ejectives.
+  * Write a preliminary explanation of ejectives. (Feel free to research on, but not copy, Wikipedia.)
   * Provide voice samples.
 * Record and upload voice samples for all words listed in the topic.
 
