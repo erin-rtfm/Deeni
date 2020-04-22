@@ -2,6 +2,11 @@
 
 Hello! Thank you so much for your willingness to help. Before you begin, please check out the main project [Readme](https://github.com/erin-rtfm/Deeni/blob/master/README.md), then peruse this list and choose something to work on. I've grouped needed updates into headings below to help you find the work that suits you best. Thanks again!
 
+## Getting Started
+The only thing you need to help out is a Github account! (I promise that using Github isn't hard or scary.) You can sign up for a free account at [Github.com](https://github.com/). Once you're in, you don't need any additional permission; just jump right in!
+
+If you don't want to sign up for Github, you might be able to collaborate with someone at the table to do research for them, but you'll need to sort that out on your own.
+
 ## General Cleanup
 - Proofread/copy edit topics - they all need it!
 - In the [Sounds and Spelling](https://github.com/erin-rtfm/Deeni/blob/master/Cirriculum/Chapter%200:%20Introduction%20and%20Basics/Sounds%20and%20Spelling.md) topic:
