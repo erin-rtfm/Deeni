@@ -1,4 +1,4 @@
-# README For Write the Docs Writing Day
+# Write the Docs Writing Day Intro
 
 Hello! Thank you so much for your willingness to help. Before you begin, please check out the main project [Readme](https://github.com/erin-rtfm/Deeni/blob/master/README.md), then peruse this list and choose something to work on. I've grouped needed updates into headings below to help you find the work that suits you best. Thanks again!
 
