@@ -1,7 +1,7 @@
 # Family Relationships Vocabulary List
 
-|    | English | Deeni |
-|---|---|---|
+| English | Deeni |
+|---|---|
 | Mother | K'waa-ga' |
 | Father | Ta' |
 | Parent |  |
