@@ -1,10 +1,15 @@
 # Family Relationships Vocabulary List
 
+## Nouns
+
 | English | Deeni |
 |---|---|
 | Mother | K'waa-ga' |
 | Father | Ta' |
 | Parent |  |
+| Wife | Tr'aa-ne' |
+| Husband | Ch'ee-see-ne' |
+| Spouse |  |
 | Grandmother | Sru' |
 | Grandfather | 'Aa-me |
 | Grandparent |  |
@@ -31,3 +36,12 @@
 | Daughter-in-law | Ya'sh-'vt |
 | Son-in-law | Dghvn-da~' |
 | Child-in-law |  |
+
+## Verbs
+| English | Deeni |
+|---|---|
+| Loving (adult/romantic)| Yvlh-te |
+| Loving me (adult/romantic) | Sulh-te |
+| I love you (to adult, romantic) | Nulh-te |
+| Loving (child)| Ghaa~-srvn |
+| I love you (to child) | Ghaa~-nvsht-srvn |
