@@ -61,6 +61,10 @@ You can also have more than one nasal vowel in a single word:
 
 ### Glottal Stops
 
+A glottal stop is when you bring your vocal chords together to stop sound, then if followed by another syllable, you bring them apart again to make a new sound. For example, when you say "uh-oh", between the "uh" and "oh", you close your throat to stop the first sound, and then open your throat to make the second sound.
+
+(Add information on how this is used in Deeni)
+
 ## Consonants
 | Deeni letter | Sound | Example | Sound Clip |
 | --- | --- | --- | --- |
