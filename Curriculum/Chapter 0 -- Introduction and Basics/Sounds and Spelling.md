@@ -63,11 +63,31 @@ You can also have more than one nasal vowel in a single word:
 
 ## Consonants
 | Deeni letter | Sound | Example | Sound Clip |
-| --- | --- | --- | --- |
-| --- | --- | --- | --- |
-| --- | --- | --- | --- |
-| --- | --- | --- | --- |
-| --- | --- | --- | --- |
-| --- | --- | --- | --- |
+| ------------ | ----- | ------- | ---------- |
+| b | --- | buu-si (_kitten_) | --- |
+| ch | --- | chee-ta' (_spear_) | --- |
+| ch' | --- | ch'ee-yash (_bird_) | --- |
+| d | --- | des-chu (_elk_) | --- |
+| g | --- | gau (_swan_) | --- |
+| gh | --- | naa-ghe (_eye_) | --- |
+| h | --- | haa~-chu (_goose_ | --- |
+| k | --- | la'-sake-'e (_finger_) | --- |
+| k' | --- | k'aa~-sra (_crow_) | --- |
+| kr' | --- | kr'ii-ki (_gravy_) | --- |
+| l | --- | la'-sre (_pine squirrel_) | --- |
+| lh | --- | lhuk (_fish_) | --- |
+| m | --- | met (_abdomen_) | --- |
+| n | --- | nin' (_face_) | --- |
+| p | --- | nii-pash (_cheek_) | --- |
+| s | --- | si' (_hair_) | --- |
+| sh | --- | shin (_summer_) | --- |
+| sr | --- | srtaa~ (_food_) | --- |
+| t | --- | tee-ne (_road_) | --- |
+| t' | --- | tes-t'-vm (_trail_) | --- |
+| tr' | --- | tr'aa-ma (_grief/sadness_) | --- |
+| ts' | --- | slhts'a' (_low tide_) | --- |
+| w | --- | wee-ni (_reason_) | --- |
+| x | --- | xii-dvn (_wintertime_) | --- |
+| y | --- | yant (_beyond_) | --- |
 
 ### Ejectives
