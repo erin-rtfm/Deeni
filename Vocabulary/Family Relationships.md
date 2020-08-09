@@ -6,10 +6,10 @@
 |---|---|
 | Mother | K'waa-ga' |
 | Father | Ta' |
-| Parent |  |
-| Wife | Tr'aa-ne' |
+| Parent | Mvtlh-srii-ne'|
+| Foster parent/Guardian | Shu'-netlh-'ii~-ne |
+| Wife, spouse | Tr'aa-ne' |
 | Husband | Ch'ee-see-ne' |
-| Spouse |  |
 | Grandmother | Sru' |
 | Grandfather | 'Aa-me |
 | Grandparent |  |
@@ -31,12 +31,15 @@
 | Niece | Mash-tr'e |
 | Nephew | Maa-she |
 | Nibling |  |
-| Mother-in-law | Mee-dre' |
-| Father-in-law |  |
+| Mother-in-law | Mee-dre', mee-tr"e' |
+| Father-in-law |  Mee-ta' |
 | Parent-in-law |  |
-| Daughter-in-law | Ya'sh-'vt |
-| Son-in-law | Dghvn-da~' |
+| Daughter-in-law | Ya'sh-'vt, yash-vt |
+| Son-in-law | Dghvn-da~', wvn-dan' |
 | Child-in-law |  |
+| Sister-in-law | Ghee-tr"e' |
+| Brother-in-law | Ghee |
+| Late/deceased (person) | Day-sri (person) |
 
 ## Verbs
 | English | Deeni |
@@ -46,3 +49,8 @@
 | I love you (to adult, romantic) | Nulh-te |
 | Loving (child)| Ghaa~-srvn |
 | I love you (to child) | Ghaa~-nvsht-srvn |
+| Hug | Naa-t"e yvlh-chut |
+| Kiss | Da' yvlh-ts"vms |
+| Get engaged/date | Naa-delh |
+| Marry | 'A'-t"i~ |
+| Divorce | Lhch"an'-naa-delh |
