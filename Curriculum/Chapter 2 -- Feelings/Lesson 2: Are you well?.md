@@ -22,9 +22,9 @@ _Shvm_ means _good_. It is an adjective. This means it describes a noun (person,
 [need more info]
 
 ### Verbs
-In Deeni, we very rarely uses the words _is_, _am_, and _are_. Instead, verbs usually have the person and timing conjugated in. However, sometimes is, am, and are make sense.
+In Deeni, we very rarely use the words _is_, _am_, and _are_. Instead, verbs usually have the person and timing conjugated in. However, sometimes is, am, and are make sense.
 
-_N[]-li_ is the stem verb meaning is. Although it is a split verb, the split happens on the first syllable. Therefore, it’s a 1-split verb.
+_N[]-li_ is the stem verb meaning _is_. Although it is a split verb, the split happens on the first syllable. Therefore, it’s a 1-split verb.
 
 - To say I am, add vs between the brackets: _n[vs]-li_ :arrow-right: _nvs-li_
 - To say you are, add ii~ between the brackets: _n[ii~]-li_ :arrow-right: _nii~li_
