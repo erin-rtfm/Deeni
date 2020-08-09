@@ -20,6 +20,7 @@
 |---|---|
 | Hug | Naa-t"e yvlh-chut |
 | Kiss | Da' yvlh-ts"vms |
+| Date/get engaged | Naa-delh |
 | Break up | |
 | Hang out with | |
 | Talk to | Tr"vn na'-'a |
@@ -81,7 +82,8 @@
 ## Religious Relationships
 | English | Deeni |
 |---|---|
-| Pastor/religious leader | |
+| Religious leader | Dv-k"ee-na'-'a |
+| Shaman/traditional doctor | Dii-nvn |
 | Congregant | |
 
 ## Health Relationships
@@ -89,9 +91,9 @@
 ### Nouns
 | English | Deeni |
 |---|---|
-| Doctor | |
-| Dentist | |
-| Pharmacist | |
+| Doctor | Ch"aa-may-yvlh-sri |
+| Dentist | Ghu'-ne |
+| Pharmacist | Ch"aa-may-yvlh-sri |
 | Therapist | Dv-ghvn-'vt-nii-ne |
 
 ### Verbs
@@ -99,16 +101,18 @@
 |---|---|
 | Visit | |
 | Make an appointment | |
-| Consult | |
+| Consult/talk with | Tr'vn na'-'a |
 
 ## Governmental Relationships
 
 ### Nouns
 | English | Deeni |
 |---|---|
+| Government | K"ap-mvn |
+| Voter | Mvn-yulh-tee-ne |
 | President | Xvsh-xay-yu' (from traditional role of headman) |
-| Vice President | |
-| Prime Minister | |
+| Vice President | Mii~-xvsh-xay |
+| Prime Minister | Xvsh-xay-yu' |
 | Senator | |
 | Congressperson | |
 | Governor | |
@@ -118,8 +122,7 @@
 ### Verbs
 | English | Deeni |
 |---|---|
-| Vote | |
-| Vote for | |
+| Vote | Mvn-yulh-te |
 | Elect | |
 | Impeach | |
 | Remove from office | |
