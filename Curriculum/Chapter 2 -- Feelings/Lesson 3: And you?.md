@@ -10,7 +10,7 @@
 
 ## Grammar Notes
 ### Also
-_Nvnchu_ means you _also._ _Shiichu_ means _me also._
+_Nvnchu_ means _you also._ _Shiichu_ means _me also._
 
 - Nvn: You
 - Shii: I, me
