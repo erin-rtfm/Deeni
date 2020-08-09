@@ -9,7 +9,7 @@ If you don't want to sign up for Github, you might be able to collaborate with s
 
 ## General Cleanup
 - Proofread/copy edit topics - they all need it!
-- In the [Sounds and Spelling](https://github.com/erin-rtfm/Deeni/blob/master/Cirriculum/Chapter%200:%20Introduction%20and%20Basics/Sounds%20and%20Spelling.md) topic:
+- In the [Sounds and Spelling](https://github.com/erin-rtfm/Deeni/blob/master/Curriculum/Chapter%200%20--%20Introduction%20and%20Basics/Sounds%20and%20Spelling.md) topic:
   - Collect the list of consonants from the [Siletz Language website](http://www.siletzlanguage.org/additional-materials.php?category=18) and add them to the Consonants section. For now, treat any blends (e.g., "kr") as a single consonant.
   - Provide examples of Deeni consonant sounds as they are used in English, where possible. You can hear the pronunciation of each sound on the [Deeni Dvn YouTube channel](https://www.youtube.com/watch?v=6UN7rABDQqI).
   - Collect and link sound files for each consonant from Wikipedia. Use the [Vowels](https://github.com/erin-rtfm/Deeni/blob/master/Curriculum/Chapter%200%20--%20Introduction%20and%20Basics/Sounds%20and%20Spelling.md#basic-vowels) section as a template.
@@ -18,7 +18,7 @@ If you don't want to sign up for Github, you might be able to collaborate with s
   - Provide examples of Deeni words that include each ejective. You can look words up on the [Siletz Talking Dictionary](http://siletz.swarthmore.edu/) or the [Tolowa Dee-ni' Wee-ya'-dvn](http://www.weeyadvn.com/tolowa-dictionary/).
 
 ## Long-Form Writing
-- In the [Sounds and Spelling](https://github.com/erin-rtfm/Deeni/blob/master/Cirriculum/Chapter%200:%20Introduction%20and%20Basics/Sounds%20and%20Spelling.md) topic:
+- In the [Sounds and Spelling](https://github.com/erin-rtfm/Deeni/blob/master/Curriculum/Chapter%200%20--%20Introduction%20and%20Basics/Sounds%20and%20Spelling.md) topic:
   - Write an explanation of glottal stops. (Feel free to research on, but not copy, Wikipedia.) The existing explanations of extensions and nasalization can help you determine the right depth of detail.
   - Write an explanation of ejectives. (Feel free to research on, but not copy, Wikipedia.) The existing explanations of extensions and nasalization can help you determine the right depth of detail.
 - Write practice exercises based on the content of each chapter, including some overlap content with earlier chapters. You can write practices in English only if you prefer, or include Deeni as well if you're feeling more adventurous.
