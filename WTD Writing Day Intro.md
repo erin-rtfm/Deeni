@@ -37,7 +37,7 @@ Create new vocabulary lists in the [Vocabulary](https://github.com/erin-rtfm/Dee
 Vocabulary categories:
 - Family relationships
 - Other personal relationships
-- Names of the tribes that make up the Confederated Tribes of Siletz, Confederated Tribes of Grand Ronde, Confederated Tribes of Warm Springs, and the Tolowa Dee-ni' Nation. (This will definitely require some research!)
+- Names of the tribes that make up the [Nine Tribes or Oregon](https://www.oregon.gov/DHS/ABOUTDHS/TRIBES/Pages/Tribes.aspx). (This will definitely require some research!)
 - Body parts
 - Physical traits
 - Personal qualities
