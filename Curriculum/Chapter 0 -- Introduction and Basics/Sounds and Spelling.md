@@ -1,9 +1,9 @@
 # Sounds and Spelling: Introduction
-Traditionally, Deeni did not have a written component, so there is no traditional writing style. Instead, several people worked to develop a writing system in the 1970s and '80s. The most current draft of that system is call the "Practical Alphabet," which is designed to capture Deeni phonetics in a way that can be typed on a standard English keyboard. 
+Traditionally, Deeni did not have a written component, so there is no traditional writing style. Instead, several people worked to develop a writing system in the 1970s and '80s. The most current draft of that system is called the "Practical Alphabet," which is designed to capture Deeni phonetics in a way that can be typed on a standard English keyboard. 
 
 I break from the Practical Alphabet in a few small ways:
 - I do not use hyphens in the Deeni Project except in verbs and where they help differentiate between a word and its prefixes or suffixes. I find hyphens do not make words easier to read, though they do make words much harder to type.
-- Rather than using an apostrophe (') as the marker for both glottal stops and ejectives, I use aopstrophes only for glottal stops. I use a double quote (") for ejectives. (More on the difference between them below.)
+- Rather than using an apostrophe (') as the marker for both glottal stops and ejectives, I use apostrophes only for glottal stops. I use a double quote (") for ejectives. (More on the difference between them below.)
 
 > Although it's important to know how to read, languages live and die on people speaking aloud to one another. Because of that, if you want to practice and improve your Deeni, it's vital to practice saying words out loud. I've done my best here to explain the sounds you'll encounter as you study, but I strongly suggest watching [this video](https://www.youtube.com/watch?v=6UN7rABDQqI) featuring Loren Bommelyn of the Tolowa Rancheria. I've also provided links to recordings of individual sounds to make it faster and easier to find the ones you want to practice.
 
@@ -67,11 +67,31 @@ A glottal stop is when you bring your vocal chords together to stop sound, then 
 
 ## Consonants
 | Deeni letter | Sound | Example | Sound Clip |
-| --- | --- | --- | --- |
-| --- | --- | --- | --- |
-| --- | --- | --- | --- |
-| --- | --- | --- | --- |
-| --- | --- | --- | --- |
-| --- | --- | --- | --- |
+| ------------ | ----- | ------- | ---------- |
+| b | --- | buu-si (_kitten_) | --- |
+| ch | --- | chee-ta' (_spear_) | --- |
+| ch' | --- | ch'ee-yash (_bird_) | --- |
+| d | --- | des-chu (_elk_) | --- |
+| g | --- | gau (_swan_) | --- |
+| gh | --- | naa-ghe (_eye_) | --- |
+| h | --- | haa~-chu (_goose_) | --- |
+| k | --- | la'-sake-'e (_finger_) | --- |
+| k' | --- | k'aa~-sra (_crow_) | --- |
+| kr' | --- | kr'ii-ki (_gravy_) | --- |
+| l | --- | la'-sre (_pine squirrel_) | --- |
+| lh | --- | lhuk (_fish_) | --- |
+| m | --- | met (_abdomen_) | --- |
+| n | --- | nin' (_face_) | --- |
+| p | --- | nii-pash (_cheek_) | --- |
+| s | --- | si' (_hair_) | --- |
+| sh | --- | shin (_summer_) | --- |
+| sr | --- | srtaa~ (_food_) | --- |
+| t | --- | tee-ne (_road_) | --- |
+| t' | --- | tes-t'-vm (_trail_) | --- |
+| tr' | --- | tr'aa-ma (_grief/sadness_) | --- |
+| ts' | --- | slhts'a' (_low tide_) | --- |
+| w | --- | wee-ni (_reason_) | --- |
+| x | --- | xii-dvn (_wintertime_) | --- |
+| y | --- | yant (_beyond_) | --- |
 
 ### Ejectives
