@@ -70,7 +70,7 @@ You can also have more than one nasal vowel in a single word:
 | d | --- | des-chu (_elk_) | --- |
 | g | --- | gau (_swan_) | --- |
 | gh | --- | naa-ghe (_eye_) | --- |
-| h | --- | haa~-chu (_goose_ | --- |
+| h | --- | haa~-chu (_goose_) | --- |
 | k | --- | la'-sake-'e (_finger_) | --- |
 | k' | --- | k'aa~-sra (_crow_) | --- |
 | kr' | --- | kr'ii-ki (_gravy_) | --- |
