@@ -4,7 +4,6 @@
 
 | English | Deeni |
 |---|---|
-| English | Dee Ni | 
 | One | Lha’ |
 | Two | Naa-xe |
 | Three | Taa-xe |
