@@ -13,6 +13,7 @@
 | Grandmother | Sru' |
 | Grandfather | 'Aa-me |
 | Grandparent |  |
+| Ancestor | K"wii-daa-naa~-ye' |
 | Daughter | Sii-'e |
 | Son | Daa~-ghee-yilh |
 | Child | Dghvn, Nvst-'e, Shxii-xe |
