@@ -31,7 +31,7 @@ In Deeni, sentences go in the order subject–object–verb. “I read books” 
 _Dee-d[]t-nish_ is the stem verb meaning _feel._
 
 - To say _I feel_, add _vsh_ between the brackets: _dee-d[vsh]t-nish_ :arrow_right: _dee-dvsht-nish_
-- To say _you feel_, add in between the brackets: _dee-d[in]t-nish_ :arrow_right: _dee-dint-nish_
+- To say _you feel_, add _in_ between the brackets: _dee-d[in]t-nish_ :arrow_right: _dee-dint-nish_
 
 Therefore, _Daa’eela dee-dint-nish?_ literally means _How do you feel?_.
 
