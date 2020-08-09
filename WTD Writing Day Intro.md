@@ -11,11 +11,11 @@ If you don't want to sign up for Github, you might be able to collaborate with s
 - Proofread/copy edit topics - they all need it!
 - In the [Sounds and Spelling](https://github.com/erin-rtfm/Deeni/blob/master/Cirriculum/Chapter%200:%20Introduction%20and%20Basics/Sounds%20and%20Spelling.md) topic:
   - Collect the list of consonants from the [Siletz Language website](http://www.siletzlanguage.org/additional-materials.php?category=18) and add them to the Consonants section. For now, treat any blends (e.g., "kr") as a single consonant.
-  - Provide examples of Deeni consonant sounds as they are used in English, where possible.
-  - Collect and link sound files for each consonant from Wikipedia.
-  - Provide examples of Deeni words that begin with each consonant. (Look words up on the [Talking Dictionary](http://siletz.swarthmore.edu/).)
+  - Provide examples of Deeni consonant sounds as they are used in English, where possible. You can hear the pronunciation of each sound on the [Deeni Dvn YouTube channel](https://www.youtube.com/watch?v=6UN7rABDQqI).
+  - Collect and link sound files for each consonant from Wikipedia. Use the [Vowels](https://github.com/erin-rtfm/Deeni/blob/master/Curriculum/Chapter%200%20--%20Introduction%20and%20Basics/Sounds%20and%20Spelling.md#basic-vowels) section as a template.
+  - Provide examples of Deeni words that begin with each consonant. You can look words up on the [Siletz Talking Dictionary](http://siletz.swarthmore.edu/) or [Tolowa Dee-ni' Wee-ya'-dvn](http://www.weeyadvn.com/tolowa-dictionary/).
   - Collect and link sound files for each ejective from Wikipedia, where possible. In Deeni, ejectives are marked with an apostrophe after a consonant. (An apostrophe after a vowel is a glottal stop.)
-  - Provide examples of Deeni words that include each ejective. (Look words up on the [Talking Dictionary](http://siletz.swarthmore.edu/).)
+  - Provide examples of Deeni words that include each ejective. You can look words up on the [Siletz Talking Dictionary](http://siletz.swarthmore.edu/) or the [Tolowa Dee-ni' Wee-ya'-dvn](http://www.weeyadvn.com/tolowa-dictionary/).
 
 ## Long-Form Writing
 - In the [Sounds and Spelling](https://github.com/erin-rtfm/Deeni/blob/master/Cirriculum/Chapter%200:%20Introduction%20and%20Basics/Sounds%20and%20Spelling.md) topic:
@@ -28,11 +28,11 @@ Create new vocabulary lists in the [Vocabulary](https://github.com/erin-rtfm/Dee
 
 **For English words,** don't spend too much time thinking about what concepts might or might not exist in Deeni. Although a fascinating thought experiment, it's not terribly helpful, as tribal members have invented words to describe many new concepts (for example, cell phones!). Focus instead on the kinds of words you or another learner would find useful for each category.
 
-**For Deeni words,** we're currently limited to what's available on the [Talking Dictionary](http://siletz.swarthmore.edu/). This isn't the only vocabulary resource available, but it is a very reliable and carefully curated one. Don't worry too much if you can't find a particular word in Deeni; keep pushing through to find what words you can. You can also choose to scrape through the resources on the [Siletz Language](http://www.siletzlanguage.org/) site.
+**For Deeni words,** we're currently limited to what's available on the [Siletz Talking Dictionary](http://siletz.swarthmore.edu/) and the [Tolowa Dee-ni' Wee-ya'-dvn](http://www.weeyadvn.com/tolowa-dictionary/). These aren't the only vocabulary resource available, but they are very reliable and carefully curated. Don't worry too much if you can't find a particular word in Deeni; keep pushing through to find what words you can. You can also choose to scrape through the resources on the [Siletz Language](http://www.siletzlanguage.org/) site.
 
 **Additionally for Deeni words:**
 - Nouns: Enter nouns alone, without a possessive prefix. For example, for the word "hand," enter _la'_ rather than _shla'_ (my hand) or _nnla'_ (your hand).
-- Verbs: For the time being, I'm only interested in present progressive and simple past tenses. When adding a verb to a vocabularly list, use the "he, she, it" form. For example, if you want to add "laughing" to a list, look the word up in the dictionary and choose the entry marked _laughing, he, she, it is_. If you can't find that form, use the "I" form (e.g., _laughing, I am_) and make a note that you've done so.
+- Verbs: For the time being, I'm only interested in present progressive and simple past tenses. When adding a verb to a vocabularly list, use the form marked "he, she, it" in the [Siletz Talking Dictionary](http://siletz.swarthmore.edu/) and the [Tolowa Dee-ni' Wee-ya'-dvn](http://www.weeyadvn.com/tolowa-dictionary/) or "3s" in the [Tolowa Dee-ni' Wee-ya'-dvn](http://www.weeyadvn.com/tolowa-dictionary/). For example, if you want to add "laughing" to a list, look the word up in the dictionary and choose the entry marked _laughing, he, she, it is_ (Siletz Talking Dictionary) or the _3s_ entry for _laugh/giggle/chuckle_ (Tolowa Dee-ni' Wee-ya'-dvn). If you can't find that form, use the "I" form (e.g., _laughing, I am_ or the _1s_ entry) and make a note that you've done so.
 
 Vocabulary categories:
 - Family relationships
